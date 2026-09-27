@@ -1,0 +1,6 @@
+{
+  "name": "মোসলেমগঞ্জ উচ্চ বিদ্যালয় | Moslemganj High School",
+  "description": "মোসলেমগঞ্জ উচ্চ বিদ্যালয় এর পূর্ণাঙ্গ প্রাতিষ্ঠানিক ওয়েবসাইট, ফলাফল অনুসন্ধান ও ম্যানেজমেন্ট সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
